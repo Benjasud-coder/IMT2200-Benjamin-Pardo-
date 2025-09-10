@@ -1,1 +1,0 @@
-Actividad 1 ICD, copie el archivo de la actividad, ejecute los codigos y en el ultimo agrege un resumen de las 5 comunas con mas poblacion segun el archivo dado. El codigo para esa leyenda fue mayormente proporcionado por copilot. Prompt: "de que manera puedo mostrar las 5 comunas más pobladas". Por ultimo puse mi nombre. 
